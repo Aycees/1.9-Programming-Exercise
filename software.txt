@@ -1,0 +1,28 @@
+Adobe Lightroom
+6.7
+8
+450
+Adobe Photoshop
+7.0
+27
+580
+Norton SystemWorks
+2003
+6
+50
+Norton Utilities
+10
+30
+850
+Visual J++ Professional
+6.0
+19
+100
+Visual J++ Standard
+6.0
+27
+40
+Windows OS
+Vista
+4
+1200
